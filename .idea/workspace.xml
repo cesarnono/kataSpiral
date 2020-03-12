@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03e5590e-6144-445f-9d67-67256547da17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzUcQHtnRnhKZwSYdwvps25f6A" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="kata" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KataSpiral">
+    <configuration name="KataSpiral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kata.KataSpiral" />
+      <module name="spiral.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KataSpiralTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kata.KataSpiralTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KataSpiralTest.entryEqualsToFor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kata.KataSpiralTest.entryEqualsToFor&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KataSpiralTest.entryEqualsToThree" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kata.KataSpiralTest.entryEqualsToThree&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KataSpiralTest.entryEqualsToTwo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kata.KataSpiralTest.entryEqualsToTwo&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.KataSpiralTest" />
+        <item itemvalue="Application.KataSpiral" />
+        <item itemvalue="Gradle.KataSpiralTest.entryEqualsToFor" />
+        <item itemvalue="Gradle.KataSpiralTest.entryEqualsToThree" />
+        <item itemvalue="Gradle.KataSpiralTest.entryEqualsToTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03e5590e-6144-445f-9d67-67256547da17" name="Default Changelist" comment="" />
+      <created>1583944994559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583944994559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="146" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583945172997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="146" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583945172997" />
+    <state width="1557" height="183" key="GridCell.Tab.0.bottom" timestamp="1584031277083">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583946521430" />
+    <state width="1557" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584031277083" />
+    <state width="1557" height="183" key="GridCell.Tab.0.center" timestamp="1584031277082">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583946521430" />
+    <state width="1557" height="183" key="GridCell.Tab.0.center/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584031277082" />
+    <state width="1557" height="183" key="GridCell.Tab.0.left" timestamp="1584031277082">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583946521429" />
+    <state width="1557" height="183" key="GridCell.Tab.0.left/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584031277082" />
+    <state width="1557" height="183" key="GridCell.Tab.0.right" timestamp="1584031277082">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583946521430" />
+    <state width="1557" height="183" key="GridCell.Tab.0.right/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584031277082" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1584021428071">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584021428071" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1584021428071">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584021428071" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1584021428070">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584021428070" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1584021428071">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1584021428071" />
+    <state x="454" y="85" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583945177078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="85" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583945177078" />
+    <state x="1873" y="61" width="586" height="488" key="find.popup" timestamp="1583961336403">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state x="1873" y="61" width="586" height="488" key="find.popup/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1583961336403" />
+    <state x="1763" y="66" key="run.anything.popup" timestamp="1583955586609">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.-125.1600.860@0.0.1366.728" timestamp="1583946421072" />
+    <state x="1763" y="66" key="run.anything.popup/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1583955586609" />
+    <state x="1829" y="55" width="672" height="678" key="search.everywhere.popup" timestamp="1583958353275">
+      <screen x="1366" y="-125" width="1600" height="860" />
+    </state>
+    <state x="1829" y="55" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-125.1600.860@1366.-125.1600.860" timestamp="1583958353275" />
+  </component>
+</project>

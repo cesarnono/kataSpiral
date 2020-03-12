@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kata.KataSpiralTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-12T16:21:27" hostname="CESAR-AGUIRRE" time="0.009">
+  <properties/>
+  <testcase name="entryEqualsToZero" classname="kata.KataSpiralTest" time="0.005"/>
+  <testcase name="entryString" classname="kata.KataSpiralTest" time="0.001"/>
+  <testcase name="entryEqualsToThree" classname="kata.KataSpiralTest" time="0.0"/>
+  <testcase name="entryNegative" classname="kata.KataSpiralTest" time="0.0"/>
+  <testcase name="entryEqualsToFor" classname="kata.KataSpiralTest" time="0.001"/>
+  <testcase name="entryEqualsToOne" classname="kata.KataSpiralTest" time="0.0"/>
+  <testcase name="entryEqualsToTwo" classname="kata.KataSpiralTest" time="0.0"/>
+  <system-out><![CDATA[java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+java.lang.NumberFormatException: For input string: "j"
+java.lang.NegativeArraySizeException: -1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
